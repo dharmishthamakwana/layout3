@@ -8,9 +8,7 @@ void main()
       debugShowCheckedModeBanner: false,
       routes: {
         '/':(context) => Screen3(),
-        // '/':(context) => Screen2(),
-        //  '/':(context) => Screen3(),
-        //  's2':(context) => Screen1(),
+
       },
     ),
   );
